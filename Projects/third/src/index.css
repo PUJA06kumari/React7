@@ -1,0 +1,10 @@
+.Book 
+{
+  display: flex;
+  gap: 10px;
+}
+.booknew
+{
+  display: flex;
+  gap: 10px;
+}
