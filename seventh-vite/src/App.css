@@ -1,0 +1,31 @@
+.count
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; 
+  border: 2px solid black; 
+  width: 500px;
+  background-color: rgb(196, 221, 231);
+  box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+  border-radius: 10px;
+}
+.count p
+{
+  font-size: 40px;
+}
+button
+{
+  font-size: 30px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: black;
+  color: #fff;
+}
+button :hover
+{
+  border-width: 20px;
+  border-color: blue;
+}
